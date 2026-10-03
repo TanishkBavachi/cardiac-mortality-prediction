@@ -1,5 +1,3 @@
-<img width="4000" height="1800" alt="gt650" src="https://github.com/user-attachments/assets/6dadb47d-3009-4030-b291-88079563c7e8" />#Cardiac Fate Tracker
-
 ### AI-Powered Cardiac Mortality Risk Assessment & Health Monitoring Platform
 
 Cardiac Fate Tracker is a full-stack AI-assisted healthcare application designed to support **early cardiac risk assessment and patient monitoring**. The platform collects clinical and demographic patient information, processes the data through a mortality-risk prediction pipeline, generates risk-level insights, stores prediction history, and provides AI-powered health guidance.
